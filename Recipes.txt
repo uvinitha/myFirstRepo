@@ -1,11 +1,4 @@
 
-
-
-
-
-
-
-
 Welcome to Kitchen!
 Kheer
 Masal Dosa
@@ -17,3 +10,6 @@ Pizza
 Thank you :)
 
 Done with my changes
+
+Final copy
+
